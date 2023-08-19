@@ -6,7 +6,7 @@
 
 [中心仓库](https://mvnrepository.com/)
 
-![](../others/img/pulic_repositry.png)
+![](../../others/img/pulic_repositry.png)
 
 
 
@@ -27,4 +27,4 @@ mvn install:install-file
 mvn install:install-file "-DgroupId=de.codecentric" "-DartifactId=spring-boot-admin-starter-client" "-Dversion=2.5.4" "-Dpackaging=jar" "-Dfile=spring-boot-admin-client-2.5.4.jar"
 ````
 
-![](../others/img/依赖信息.png)
+![](../../others/img/依赖信息.png)
