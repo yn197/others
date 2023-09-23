@@ -19,7 +19,7 @@
 
 ![](https://hexo-img-oss.oss-cn-shanghai.aliyuncs.com/jenkins%E9%85%8D%E7%BD%AE0.png)
 
-![jenkins配置2](H:\others\img\jenkins配置2.png)
+![jenkins配置2](https://hexo-img-oss.oss-cn-shanghai.aliyuncs.com/jenkins%E9%85%8D%E7%BD%AE2.png)
 
 ![jenkins配置3](https://hexo-img-oss.oss-cn-shanghai.aliyuncs.com/jenkins%E9%85%8D%E7%BD%AE3.png)
 
